@@ -24,5 +24,5 @@ and providing a gentle practical guide to get started with Compose.
 {% include embed/youtube.html id='CPkSB6NQP5Y?t=5039' %}
 
 ## Resources
-> You can download this presentation from [this link](ppt/Android254 - Jetpack compose.pptx).
+> You can download this presentation from [this link](/assets/media/post/2021-02-20-a-gentle-introduction-to-jetpack-compose/ppt/Android254 - Jetpack compose.pptx).
 {: .prompt-tip }
