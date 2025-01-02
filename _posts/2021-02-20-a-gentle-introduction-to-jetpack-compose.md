@@ -7,8 +7,7 @@ toc: true
 comments: false
 media_subpath: /assets/media/post/2021-02-20-a-gentle-introduction-to-jetpack-compose/
 image:
-  path: img/banner.png
-  lqip: /assets/media/post/2021-02-20-a-gentle-introduction-to-jetpack-compose/img/banner-lqip.jpg
+  path: /img/banner.png
   alt: Introduction To Jetpack Compose
 description: >-
   A presentation for the Android254 community on getting started with Jetpack Compose.
