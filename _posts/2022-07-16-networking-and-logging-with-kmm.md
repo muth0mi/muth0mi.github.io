@@ -57,7 +57,7 @@ This is a screengrab of the sample used for the demo.
 {% 
   include embed/video.html 
   src='vid/demo.webm'
-  types='webm|mov|mp4'
+  types='webm'
   poster='img/thumbnail.png' 
   title='KMM Networking & Logging App Demo'
   autoplay=true 
