@@ -33,7 +33,7 @@ The server in running on Ktor Server.
 
 ## Presentation
 This presentation is not recorded. 
-It work presented to a live audience at iHub, Nairobi Kenya.
+It was presented to a live audience at iHub, Nairobi Kenya.
 
 ![Presenting KMM Networking and Logging at iHub](img/speaker.jpg){:
   .shadow 
